@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          도커 컴포즈 업
         </a>
       </header>
     </div>
